@@ -1,0 +1,30 @@
+body{
+            background-color: #FEF9EF;
+        }
+        hr{
+            background-color: white;
+            border-style: dotted none none;
+            border-color: grey;
+            border-width: 3px;
+            width: 5%;
+        }
+        h1{
+            color: #6ECB63;
+        }
+        h3{
+            color: #6ECB63;
+        }
+        img{
+            height: 250px;
+            width: 200px;
+        }
+        footer{
+            background-color: #FF865E;
+            color: wheat;
+            height: 40px;
+            text-align: center;
+            margin: 5px;
+            top: 100%;
+            position: sticky;
+          }
+        
